@@ -10,7 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@shopify/admin-api-client": "^1.0.4",
+    "@shopify/storefront-api-client": "^1.0.3",
     "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
     "express": "^4.21.1"
   }
 }
